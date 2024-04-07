@@ -52,7 +52,7 @@ Adjust the version numbers and other details to match your project's requirement
 - [abhishek bhagat](https://github.com?bhagtabhi209)
 
 ## License
-This project is licensed under the [MIT License](link to license file).
+This project is licensed under the [MIT License](https://github.com/bhagatabhi209/eAR/blob/main/LICENSE.
 
 ---
 
